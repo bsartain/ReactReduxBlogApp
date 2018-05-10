@@ -28,3 +28,7 @@ hr{
 .form-control-wrapper{
     margin-bottom: 25px;
 }
+
+.empty-posts{
+    color: #aaa;
+}
