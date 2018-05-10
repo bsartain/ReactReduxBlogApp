@@ -7,6 +7,8 @@ If you're interested in learning, check out [Stephen Griders course: Modern Reac
 You can clone the starter repo, which is based off this project, from [Stephen Grider's GitHub page](https://github.com/StephenGrider/ReduxSimpleStarter).
 
 ## Instructions
+
+###First
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
@@ -15,3 +17,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm install
 > npm start
 ```
+
+###Second
+You'll have to add a unique key. The key can be whatever you want just as long as its unique. The API to will not work properly without it. Navigate to src > actions > index on line 10
+e.g. const API_KEY = '?key=MyKey'
