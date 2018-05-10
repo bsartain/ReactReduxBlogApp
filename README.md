@@ -2,16 +2,12 @@ This was a simple React/Redux blog project based off Stephen Griders Udemy cours
 end of the url(See http://reduxblog.herokuapp.com/). I added a few things to it as it's my first attempt at using Redux with React. 
 If you're interested in more see the links below to get started. 
 
-# ReactReduxBlogApp
+# React/Redux Simple Blog App
 
-If you're interested in learning check out [Stephen Griders course: Modern React with Redux](https://www.udemy.com/react-redux/)?
-You can clone the starter repo from Stephen Grider's GitHub page(https://github.com/StephenGrider/ReduxSimpleStarter)
+If you're interested in learning check out [Stephen Griders course: Modern React with Redux](https://www.udemy.com/react-redux/).
+You can clone the starter repo, which is based off this project, from [Stephen Grider's GitHub page](https://github.com/StephenGrider/ReduxSimpleStarter).
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Instructions
+## Instructions
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
