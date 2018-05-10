@@ -11,7 +11,7 @@ You can clone the starter repo from Stephen Grider's GitHub page(https://github.
 
 There are two methods for getting started with this repo.
 
-#### Instructions?
+#### Instructions
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
