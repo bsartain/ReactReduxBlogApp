@@ -13,6 +13,9 @@ class PostsIndex extends Component {
     }
 
     displayPosts(){
+        if( _.size(this.props.postsList) < 1 ){
+            return <h3 className="empty-posts">Click "Add a post" button above to create a post</h3>
+        }
         return _.map(this.props.postsList, post => {
             return (
                 <a href="#" key={ post.id } onClick={() => this.getPostFunction(post)} className="list-group-item list-group-item-action flex-column align-items-start">
