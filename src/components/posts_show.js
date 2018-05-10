@@ -18,7 +18,7 @@ class PostsShow extends Component {
     }
 
     modalAction(){
-        const msg = 'Are you sure you want to perform this action?'
+        //Calls the modal's submit button
         this.props.deletePost(this.props.post, () => {
             this.props.history.push('/')
         })

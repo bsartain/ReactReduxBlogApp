@@ -56,7 +56,3 @@ export function deletePost(post, callback){
         payload: request
     }
 }
-
-export function showModal(){
-
-}
