@@ -1,0 +1,30 @@
+.move-right{
+    text-align: right;
+    margin: 20px 0px
+}
+
+form a{
+    margin-left: 5px
+}
+
+hr{
+    margin: 25px 0px!important;
+}
+
+.navigation-links{
+    display: flex;
+    margin: 25px 0px;
+    width: 100%
+}
+
+.navigation-links a{
+    justify-content: right
+}
+
+.text-help{
+    color: #dc3545;
+}
+
+.form-control-wrapper{
+    margin-bottom: 25px;
+}
