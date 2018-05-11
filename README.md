@@ -20,5 +20,5 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 ```
 
 ### Second
-You'll have to add a unique key. The key can be whatever you want just as long as its unique. The API to will not work properly without it. Navigate to src > actions > index on line 10
+You'll have to add a unique key. The key can be whatever you want just as long as its unique. The API to will not work properly without it or you may see posts from someone else. Navigate to src > actions > index on line 10
 e.g. const API_KEY = '?key=MyKey'
