@@ -16,6 +16,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > cd ReactReduxBlogApp
 > npm install
 > npm start
+> Navigate to http://localhost:8080/
 ```
 
 ### Second
